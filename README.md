@@ -1,4 +1,9 @@
-beta
+StoryRoll Beta testing
+
 ====
 
-Beta tester's bug reports and feature requests
+Dear StoryRoll friends. You can submit your bug reports and feature requests in our issue list here: https://github.com/storyroll/beta/issues
+
+Thank you for your help!
+
+StoryRoll team
